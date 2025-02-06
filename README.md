@@ -23,3 +23,6 @@ This folder contains the R script that was used to conduct the meta-analysis of 
 
 ## Colocalization analysis
 This folder contains the R script that was used to conduct the co-localization analysis. It uses the R package [coloc](https://github.com/chr1swallace/coloc). 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14816600.svg)](https://doi.org/10.5281/zenodo.14816600)
+
